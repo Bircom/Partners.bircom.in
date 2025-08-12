@@ -2,3 +2,4 @@
 "# shop.bircom.in" 
 "# projects.bircom.in" 
 "# donate.bircom.in" 
+"# Partners.bircom.in" 
